@@ -3,6 +3,8 @@ Seoul National University of Science and Technology(SeoulTech)'s second-year dig
 This project received the highest overall score.
 ## 작동법
 If you hit the Hit button one after another, Pet's experience level increases. You can start from the beginning by pressing the reset button.
+![image](https://github.com/user-attachments/assets/d1287451-36af-46bd-a69c-e60f4337e662)
+
 [Watch cute rabbit!](https://github.com/younghun1124/Logisim-Tamago-Rabbit/files/7804759/_poster.pdf)
 
 
